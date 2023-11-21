@@ -1,10 +1,10 @@
 /**********************************************************************
 * Filename    : Blink
 * Description : Make an led blinking.
-* Auther      : www.freenove.com
+* Auther      : pepito
 * Modification: 2022/10/19
 **********************************************************************/
-#define LED_BUILTIN  2
+#define LED_BUILTIN  88
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
